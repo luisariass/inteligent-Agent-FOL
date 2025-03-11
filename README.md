@@ -92,7 +92,7 @@ Clona el repositorio y accede al directorio del proyecto:
 
 ```bash
 git clone https://github.com/luisariass/inteligent-Agent-FOL.git
-cd tu-repositorio
+cd inteligent-Agent-FOL
 ```
 
 Ejecuta el script principal:
